@@ -1,0 +1,17 @@
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\L7_JFAE1070022.csproj.AssemblyReference.cache
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\L7_JFAE1070022.Form1.resources
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\L7_JFAE1070022.csproj.GenerateResource.cache
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\L7_JFAE1070022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\L7_JFAE1070022.AssemblyInfoInputs.cache
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\L7_JFAE1070022.AssemblyInfo.cs
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\L7_JFAE1070022.csproj.CoreCompileInputs.cache
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\bin\Debug\net6.0-windows\L7_JFAE1070022.exe
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\bin\Debug\net6.0-windows\L7_JFAE1070022.deps.json
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\bin\Debug\net6.0-windows\L7_JFAE1070022.runtimeconfig.json
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\bin\Debug\net6.0-windows\L7_JFAE1070022.dll
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\bin\Debug\net6.0-windows\L7_JFAE1070022.pdb
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\L7_JFAE1070022.dll
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\refint\L7_JFAE1070022.dll
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\L7_JFAE1070022.pdb
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\L7_JFAE1070022.genruntimeconfig.cache
+C:\Users\50230\Documents\Fabian\Universidad\Ciclo 2\Intro proga\Visual studio trabajos\L7_JFAE1070022\L7_JFAE1070022\obj\Debug\net6.0-windows\ref\L7_JFAE1070022.dll
